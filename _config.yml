@@ -130,6 +130,9 @@ external_sources:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         published_date: 2024-05-14
 
+people:
+  enabled: false
+
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
@@ -202,7 +205,8 @@ exclude:
   - _pages/projects.md   
   - _pages/repositories.md
   - _pages/teaching.md       
-  - _pages/cv.md     
+  - _pages/cv.md    
+  - _people/ 
 keep_files:
   - CNAME
   - .nojekyll
@@ -654,5 +658,3 @@ jsonresume:
   - interests
   - references
 
-people:
-  enabled: false
