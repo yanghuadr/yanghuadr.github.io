@@ -194,6 +194,7 @@ exclude:
   - vendor
   #Add more exclude content
   - _projects/
+  - _pages/projects.md  
 keep_files:
   - CNAME
   - .nojekyll
