@@ -201,7 +201,8 @@ exclude:
   - _pages/news.md   
   - _pages/projects.md   
   - _pages/repositories.md
-  - _pages/teaching.md          
+  - _pages/teaching.md       
+  - _pages/cv.md     
 keep_files:
   - CNAME
   - .nojekyll
@@ -652,3 +653,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+people:
+  enabled: false
