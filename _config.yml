@@ -276,10 +276,14 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
+highlight_author: "Yang Hua"
+
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  #last_name: [Einstein]
+  #first_name: [Albert, A.]
+  last_name: [Hua]
+  first_name: [Yang]
 
   style: apa
   locale: en
