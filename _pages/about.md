@@ -55,3 +55,9 @@ I obtained my Ph.D. under the supervision of Dr. Cordelia Schmid and Dr. Karteek
 I took charge of person re-identification project as a senior research scientist in AnyVision from 2016 to 2017. I engaged in a long-term research project and the related industrial product development as a senior R&D engineer in Panasonic R&D Center Singapore from 2008 to 2012.
 
 
+My research interests span both fundamental problems and real‑world applications in computer vision and machine learning, with a particular emphasis on:
+
+- Visual recognition and video understanding
+- Learning with limited data
+- Robust representative learning and its interpretations
+- Resource-aware machine learning
