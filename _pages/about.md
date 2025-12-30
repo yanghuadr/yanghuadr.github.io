@@ -14,7 +14,7 @@ profile:
   #  <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -52,8 +52,6 @@ My passion lies in guiding the computer to understand the world by research and 
 
 I am a Lecturer (equivalent to Assistant Professor) at EEECS, Queen’s University Belfast, UK. 
 
-
-
 I obtained my Ph.D. under the supervision of Dr. Cordelia Schmid and Dr. Karteek Alahari in Inria LEAR/THOTH team, France, 2016. My Ph.D. research was funded by the Microsoft PhD scholarship of the Microsoft Research - Inria joint center. I obtained my Master’s degree from Peking University Shenzhen Graduate School, China, advised by Prof. Yuexian Zou, 2008.
 
 I took charge of person re-identification project as a senior research scientist in AnyVision from 2016 to 2017. I engaged in a long-term research project and the related industrial product development as a senior R&D engineer in Panasonic R&D Center Singapore from 2008 to 2012.
@@ -64,4 +62,3 @@ I have more than seventeen years of combined research and engineering experience
 - Learning with limited data
 - Robust representative learning and its interpretations
 - Resource-aware machine learning
-
