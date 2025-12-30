@@ -202,8 +202,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/news.md   
   - _pages/projects.md   
-  - _pages/repositories.md
-  - _pages/teaching.md       
+  - _pages/repositories.md       
   - _pages/cv.md    
   - _people/ 
 keep_files:
