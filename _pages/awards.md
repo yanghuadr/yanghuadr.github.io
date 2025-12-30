@@ -7,6 +7,7 @@ nav_order: 3
 ---
 
 
+### Instructor
 - [2025]: Runner Ups for the Best Paper – Dataset and Benchmark Track, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 
 - [2019]: Recognition reward in line with the University’s core value of Excellence, EEECS, Queen’s University Belfast, United Kingdom
 - [2015]: Winning tracker of VOT-TIR2015 challenge in conjunction with ICCV 2015, Chile

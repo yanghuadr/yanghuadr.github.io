@@ -16,7 +16,9 @@ Organize your courses by years, topics, or universities, however you like!
 
 ### Instructor
 - [2026 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence and MSc in Data Science and Artificial Intelligence, EEECS, Queen’s University Belfast, United Kingdom)
+<br>
 - [2025 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence, EEECS, Queen’s University Belfast, United Kingdom)
+<br>
 - [2024 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence, EEECS, Queen’s University Belfast, United Kingdom)
 - [2020 - 2021] Research & Development Project (CSC4006, MSc in Computer Science, EEECS, Queen’s University Belfast, United Kingdom)
 - [2020 Fall] How to do research (Half-day course, PhD Structured Development, EEECS, Queen’s University Belfast, United Kingdom)
