@@ -2,8 +2,7 @@
 layout: page
 permalink: /patents/
 title: Patents
-description: These granted patents played important roles for the Panasonic’s new product line and are also core technologies for the winning methods in PASCAL Visual Object Classes (VOC)
-Challenge.
+description: These granted patents played important roles for the Panasonic’s new product line and are also core technologies for the winning methods in PASCAL Visual Object Classes (VOC) Challenge.
 nav: true
 nav_order: 6
 ---
