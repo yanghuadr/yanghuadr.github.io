@@ -48,7 +48,7 @@ I am also an adjunct researcher with Shanghai Jiao Tong University.
 My passion lies in guiding the computer to understand the world by research and development while helping students to understand the computer by teaching and mentoring.
 -->
 
-I am a Lecturer (equivalent to Assistant Professor) at ECIT/EEECS Queen’s University Belfast, UK. 
+I am a Lecturer (equivalent to Assistant Professor) at EEECS, Queen’s University Belfast, UK. 
 
 I obtained my Ph.D. under the supervision of Dr. Cordelia Schmid and Dr. Karteek Alahari in Inria LEAR/THOTH team, France. My Ph.D. research was funded by the scholarship of the Microsoft Research - Inria joint center. I obtained my Master’s degree from Peking University Shenzhen Graduate School, China, advised by Prof. Yuexian Zou.
 
@@ -65,11 +65,21 @@ My research interests span both fundamental problems and real‑world applicatio
 
 
 ### Awards
-- [2025]: Runner Ups for the Best Paper – Dataset and Benchmark Track, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 
-- [2019]: Recognition reward in line with the University’s core value of Excellence, EEECS, Queen’s University Belfast, United Kingdom
-- [2015]: Winning tracker of VOT-TIR2015 challenge in conjunction with ICCV 2015, Chile
-- [2014]: Student grant of European Conference on Computer Visions (ECCV) 2014, Switzerland
-- [2013 - 2015]: PhD scholarship, Microsoft Research - Inria Joint Center, France
-- [2012]: High Quality Patent Award, Panasonic R&D Center Singapore, Singapore
-- [2010 - 2012]: Joint winner of PASCAL VOC Challenge Classification Competition (three times) in conjunction with ECCV 2010 (Greece), ICCV 2011 (Spain) and ECCV 2012 (Italy), respectively
-- [2006] "Zhong Ying" scholarship, Peking University, China
+- 2025: Runner Ups for the Best Paper – Dataset and Benchmark Track, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 
+
+
+### Teaching
+- [2026 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence and MSc in Data Science and Artificial Intelligence), EEECS, Queen’s University Belfast, UK
+
+- [2025 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence), EEECS, Queen’s University Belfast, UK
+
+- [2024 Spring] Computer Vision (ECS8053, MSc in Artificial Intelligence), EEECS, Queen’s University Belfast, UK
+- [2020 - 2021] Research & Development Project (CSC4006, MSc in Computer Science), EEECS, Queen’s University Belfast, UK
+- [2020 Fall] How to do research (Half-day course, PhD Structured Development), EEECS, Queen’s University Belfast, UK
+- [2019 Fall] How to do research (Half-day course, PhD Structured Development), EEECS, Queen’s University Belfast, UK
+- [2019 Fall] Database and Programming Fundamentals (DSA8002, MSc in Data Analytics), M&P, Queen’s University Belfast, UK
+- [2019 Summer] Frontiers in Cloud Computing and Artificial Intelligence (Summer course), Shanghai Jiao Tong University, China
+- [2018 Fall] How to do research (Half-day course, PhD Structured Development), EEECS, Queen’s University Belfast, UK
+- [2018 Fall] Database and Programming Fundamentals (DSA8002, MSc in Data Analytics), M&P, Queen’s University Belfast, UK
+- [2018 Spring] How to do research (Half-day course, PhD Structured Development, EEECS, Queen’s University Belfast, UK
+- [2017 Fall] Database and Programming Fundamentals (DSA8002, MSc in Data Analytics), M&P, Queen’s University Belfast, UK
