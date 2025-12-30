@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/collaborators/";
           },
+        },{id: "nav-patents",
+          title: "Patents",
+          description: "These granted patents played important roles for the Panasonic’s new product line and are also core technologies for the winning methods in PASCAL Visual Object Classes (VOC) Challenge.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patents/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
