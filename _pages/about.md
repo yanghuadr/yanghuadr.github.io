@@ -50,11 +50,11 @@ My passion lies in guiding the computer to understand the world by research and 
 # My research interests span both fundamental problems and real‑world applications in computer vision and machine learning, with a particular emphasis on:
 -->
 
-I am a Lecturer (equivalent to Assistant Professor) at EEECS, Queen’s University Belfast, UK. 
+I am a Lecturer (equivalent to Assistant Professor) at EEECS, [Queen’s University Belfast](qub.ac.uk), UK. 
 
-I obtained my Ph.D. under the supervision of Dr. Cordelia Schmid and Dr. Karteek Alahari in Inria LEAR/THOTH team, France, 2016. My Ph.D. research was funded by the Microsoft PhD scholarship of the Microsoft Research - Inria joint center. I obtained my Master’s degree from Peking University Shenzhen Graduate School, China, advised by Prof. Yuexian Zou, 2008.
+I obtained my Ph.D. under the supervision of Dr. [Cordelia Schmid](cordeliaschmid.github.io) and Dr. [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/) in [Inria LEAR/THOTH team](http://lear.inrialpes.fr/), France, 2016. My Ph.D. research was funded by the Microsoft PhD scholarship of the Microsoft Research - Inria joint center. I obtained my Master’s degree from [Peking University](http://english.pku.edu.cn/) [Shenzhen Graduate School](http://english.pkusz.edu.cn/), China, advised by Prof. [Yuexian Zou](https://www.ece.pku.edu.cn/en/info/1057/1178.htm), 2008.
 
-I took charge of person re-identification project as a senior research scientist in AnyVision from 2016 to 2017. I engaged in a long-term research project and the related industrial product development as a senior R&D engineer in Panasonic R&D Center Singapore from 2008 to 2012.
+I took charge of person re-identification project as a senior research scientist in [AnyVision](http://anyvision.co/) from 2016 to 2017. I engaged in a long-term research project and the related industrial product development as a senior R&D engineer in [Panasonic R&D Center Singapore](http://www.prdcsg.panasonic.com.sg/) from 2008 to 2012.
 
 I have more than seventeen years of combined research and engineering experience in computer vision and machine learning, focusing on fundamental research topics and real-world applications, with a particular emphasis on:
 
