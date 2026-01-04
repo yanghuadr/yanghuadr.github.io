@@ -7,13 +7,13 @@ nav_order: 3
 ---
 
 
-- [2025] Runner Ups for the Best Paper – Dataset and Benchmark Track, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 
+- [2025] [Runner Ups for the Best Paper – Dataset and Benchmark Track, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025](https://kdd2025.kdd.org/awards/), Toronto, Canada  
 
 - [2019] Recognition reward in line with the University’s core value of Excellence, EEECS, Queen’s University Belfast, United Kingdom
 
-- [2015] Winning tracker of VOT-TIR2015 challenge in conjunction with ICCV 2015, Chile
+- [2015] [Winning tracker of VOT-TIR2015 challenge](https://votchallenge.net/vot2015/program.html) in conjunction with ICCV 2015, Santiago, Chile
 
-- [2014] Student grant of European Conference on Computer Visions (ECCV) 2014, Switzerland
+- [2014] Student grant of European Conference on Computer Visions (ECCV) 2014, Zurich, Switzerland
 
 - [2013 - 2015] Microsoft PhD scholarship, Microsoft Research - Inria Joint Center, France
 
