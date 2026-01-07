@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-07'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
     citations: 269
@@ -42,7 +42,7 @@ papers:
     title: 'Proselflc: Progressive self label correction for target revising in label noise'
     year: '2020'
   N0tFi8MAAAAJ:4OULZ7Gr8RgC:
-    citations: 476
+    citations: 479
     title: 'Fedala: Adaptive local aggregation for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:4fKUyHm3Qg0C:
@@ -74,7 +74,7 @@ papers:
     title: Unpaired caricature-visual face recognition via feature decomposition-restoration-decomposition
     year: '2024'
   N0tFi8MAAAAJ:8k81kl-MbHgC:
-    citations: 54
+    citations: 55
     title: Deep multi-task learning to recognise subtle facial expressions of mental states
     year: '2018'
   N0tFi8MAAAAJ:9ZlFYXVOiuMC:
@@ -218,7 +218,7 @@ papers:
     title: Weakly supervised salient object detection with spatiotemporal cascade neural networks
     year: '2018'
   N0tFi8MAAAAJ:UeHWp8X0CEIC:
-    citations: 192
+    citations: 191
     title: The thermal infrared visual object tracking VOT-TIR2015 challenge results
     year: '2015'
   N0tFi8MAAAAJ:UxriW0iASnsC:
@@ -234,7 +234,7 @@ papers:
     title: Generic object-based image recognition apparatus with exclusive classifier, and method for the same
     year: '2014'
   N0tFi8MAAAAJ:WA5NYHcadZ8C:
-    citations: 16
+    citations: 17
     title: 'Pfllib: A beginner-friendly and comprehensive personalized federated learning library and benchmark'
     year: '2025'
   N0tFi8MAAAAJ:WF5omc3nYNoC:
@@ -346,7 +346,7 @@ papers:
     title: Efficient one-stage video object detection by exploiting temporal consistency
     year: '2022'
   N0tFi8MAAAAJ:g5m5HwL7SMYC:
-    citations: 5
+    citations: 6
     title: Hierarchical satellite system graph for approximate nearest neighbor search on big data
     year: '2022'
   N0tFi8MAAAAJ:hC7cP41nSMkC:
@@ -414,11 +414,11 @@ papers:
     title: Improving the fairness of the min-max game in GANs training
     year: '2024'
   N0tFi8MAAAAJ:pqnbT2bcN3wC:
-    citations: 15
+    citations: 16
     title: Improving Bayesian Neural Networks by Adversarial Sampling
     year: '2022'
   N0tFi8MAAAAJ:qUcmZB5y_30C:
-    citations: 6
+    citations: 7
     title: Id-aware quality for set-based person re-identification
     year: '2019'
   N0tFi8MAAAAJ:qjMakFHDy7sC:
@@ -474,7 +474,7 @@ papers:
     title: Discrepancy-guided domain-adaptive data augmentation
     year: '2021'
   N0tFi8MAAAAJ:xtRiw3GOFMkC:
-    citations: 116
+    citations: 117
     title: 'Fedcp: Separating feature information for personalized federated learning via conditional policy'
     year: '2023'
   N0tFi8MAAAAJ:yD5IFk8b50cC:
