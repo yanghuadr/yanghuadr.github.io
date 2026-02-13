@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-13'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
     citations: 269
@@ -22,7 +22,7 @@ papers:
     title: 'Gpfl: Simultaneously learning global and personalized feature information for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:2osOgNQ5qMEC:
-    citations: 2262
+    citations: 2263
     title: The visual object tracking vot2015 challenge results
     year: '2015'
   N0tFi8MAAAAJ:35N4QoGY0k4C:
@@ -42,7 +42,7 @@ papers:
     title: 'Proselflc: Progressive self label correction for target revising in label noise'
     year: '2020'
   N0tFi8MAAAAJ:4OULZ7Gr8RgC:
-    citations: 524
+    citations: 526
     title: 'Fedala: Adaptive local aggregation for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:4fKUyHm3Qg0C:
@@ -246,7 +246,7 @@ papers:
     title: 'Cgi-dm: Digital copyright authentication for diffusion models via contrasting gradient inversion'
     year: '2024'
   N0tFi8MAAAAJ:XiSMed-E-HIC:
-    citations: 146
+    citations: 147
     title: 'Fedtgp: Trainable global prototypes with adaptive-margin-enhanced contrastive learning for data and model heterogeneity in federated learning'
     year: '2024'
   N0tFi8MAAAAJ:Y0pCki6q_DkC:
@@ -306,7 +306,7 @@ papers:
     title: Cross-domain learning with normalizing flow
     year: '2023'
   N0tFi8MAAAAJ:blknAaTinKkC:
-    citations: 83
+    citations: 84
     title: 'MAMBA: Multi-level aggregation via memory bank for video object detection'
     year: '2021'
   N0tFi8MAAAAJ:bnK-pcrLprsC:
@@ -342,7 +342,7 @@ papers:
     title: 'PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs'
     year: '2025'
   N0tFi8MAAAAJ:fPk4N6BV_jEC:
-    citations: 23
+    citations: 24
     title: Efficient one-stage video object detection by exploiting temporal consistency
     year: '2022'
   N0tFi8MAAAAJ:g5m5HwL7SMYC:
@@ -370,7 +370,7 @@ papers:
     title: Improving detection and recognition of degraded faces by discriminative feature restoration using gan
     year: '2020'
   N0tFi8MAAAAJ:j3f4tGmQtD8C:
-    citations: 92
+    citations: 91
     title: 'ProSelfLC: Progressive self label correction for training robust deep neural networks'
     year: '2021'
   N0tFi8MAAAAJ:kNdYIx-mwKoC:
@@ -402,7 +402,7 @@ papers:
     title: 'IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient magnitude''s variance matters'
     year: '2019'
   N0tFi8MAAAAJ:nb7KW1ujOQ8C:
-    citations: 13
+    citations: 14
     title: Spatio-temporal prompting network for robust video feature extraction
     year: '2023'
   N0tFi8MAAAAJ:ns9cj8rnVeAC:
@@ -478,7 +478,7 @@ papers:
     title: 'Fedcp: Separating feature information for personalized federated learning via conditional policy'
     year: '2023'
   N0tFi8MAAAAJ:yD5IFk8b50cC:
-    citations: 214
+    citations: 213
     title: 'Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples'
     year: '2023'
   N0tFi8MAAAAJ:zYLM7Y9cAGgC:
