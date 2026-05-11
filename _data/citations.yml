@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-11'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
     citations: 250
@@ -14,15 +14,19 @@ papers:
     title: Cross-view discriminative feature learning for person re-identification
     year: '2018'
   N0tFi8MAAAAJ:1qzjygNMrQYC:
-    citations: 24
+    citations: 25
     title: 'Siren: Robust Federated Learning With Proactive Alarming and Differential Privacy'
     year: '2024'
   N0tFi8MAAAAJ:1sJd4Hv_s6UC:
     citations: 151
     title: 'Gpfl: Simultaneously learning global and personalized feature information for personalized federated learning'
     year: '2023'
+  N0tFi8MAAAAJ:1yQoGdGgb4wC:
+    citations: 1
+    title: 'CAMD: Context-Aware Masked Distillation for General Self-Supervised Facial Representation Pre-Training'
+    year: '2025'
   N0tFi8MAAAAJ:2osOgNQ5qMEC:
-    citations: 1718
+    citations: 1719
     title: The visual object tracking vot2015 challenge results
     year: '2015'
   N0tFi8MAAAAJ:35N4QoGY0k4C:
@@ -42,7 +46,7 @@ papers:
     title: 'Proselflc: Progressive self label correction for target revising in label noise'
     year: '2020'
   N0tFi8MAAAAJ:4OULZ7Gr8RgC:
-    citations: 610
+    citations: 614
     title: 'Fedala: Adaptive local aggregation for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:4fKUyHm3Qg0C:
@@ -130,7 +134,7 @@ papers:
     title: Learning Identifiable Structures Helps Avoid Bias in DNN-based Supervised Causal Learning
     year: '2025'
   N0tFi8MAAAAJ:JV2RwH3_ST0C:
-    citations: 132
+    citations: 133
     title: Graph representation of 3D CAD models for machining feature recognition with deep learning
     year: '2020'
   N0tFi8MAAAAJ:J_g5lzvAfSwC:
@@ -146,11 +150,11 @@ papers:
     title: 'IEGAN: Multi-purpose perceptual quality image enhancement using generative adversarial network'
     year: '2019'
   N0tFi8MAAAAJ:KxtntwgDAa4C:
-    citations: 109
+    citations: 110
     title: Eliminating Domain Bias for Federated Learning in Representation Space.
     year: '2023'
   N0tFi8MAAAAJ:L8Ckcad2t8MC:
-    citations: 131
+    citations: 133
     title: Unsupervised video summarization with attentive conditional generative adversarial networks
     year: '2019'
   N0tFi8MAAAAJ:LjlpjdlvIbIC:
@@ -162,7 +166,7 @@ papers:
     title: Attribute-enhanced face recognition with neural tensor fusion networks
     year: '2017'
   N0tFi8MAAAAJ:M05iB0D1s5AC:
-    citations: 159
+    citations: 162
     title: 'Hierarchical cadnet: Learning from b-reps for machining feature recognition'
     year: '2022'
   N0tFi8MAAAAJ:M3NEmzRMIkIC:
@@ -282,7 +286,7 @@ papers:
     title: Robust bayesian neural networks by spectral expectation bound regularization
     year: '2021'
   N0tFi8MAAAAJ:YOwf2qJgpHMC:
-    citations: 18
+    citations: 19
     title: Deep learning based fetal middle cerebral artery segmentation in large-scale ultrasound images
     year: '2018'
   N0tFi8MAAAAJ:YsMSGLbcyi4C:
@@ -398,7 +402,7 @@ papers:
     title: Improving detection and recognition of degraded faces by discriminative feature restoration using gan
     year: '2020'
   N0tFi8MAAAAJ:j3f4tGmQtD8C:
-    citations: 97
+    citations: 98
     title: 'ProSelfLC: Progressive self label correction for training robust deep neural networks'
     year: '2021'
   N0tFi8MAAAAJ:kNdYIx-mwKoC:
@@ -426,7 +430,7 @@ papers:
     title: 'Resource-efficient convolutional networks: A survey on model-, arithmetic-, and implementation-level techniques'
     year: '2023'
   N0tFi8MAAAAJ:mVmsd5A6BfQC:
-    citations: 116
+    citations: 117
     title: 'IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient magnitude''s variance matters'
     year: '2019'
   N0tFi8MAAAAJ:nb7KW1ujOQ8C:
@@ -496,7 +500,7 @@ papers:
   N0tFi8MAAAAJ:vRqMK49ujn8C:
     citations: 62
     title: Backdoor federated learning by poisoning backdoor-critical layers
-    year: '2023'
+    year: '2024'
   N0tFi8MAAAAJ:vV6vV6tmYwMC:
     citations: 13
     title: Discrepancy-guided domain-adaptive data augmentation
