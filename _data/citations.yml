@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-10'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
-    citations: 250
+    citations: 251
     title: Contextualizing object detection and classification
     year: '2011'
   N0tFi8MAAAAJ:08ZZubdj9fEC:
-    citations: 0
+    citations: 1
     title: Information bound and its applications in Bayesian neural networks
     year: '2023'
   N0tFi8MAAAAJ:0EnyYjriUFMC:
@@ -14,19 +14,19 @@ papers:
     title: Cross-view discriminative feature learning for person re-identification
     year: '2018'
   N0tFi8MAAAAJ:1qzjygNMrQYC:
-    citations: 25
+    citations: 26
     title: 'Siren: Robust Federated Learning With Proactive Alarming and Differential Privacy'
     year: '2024'
   N0tFi8MAAAAJ:1sJd4Hv_s6UC:
-    citations: 151
+    citations: 155
     title: 'Gpfl: Simultaneously learning global and personalized feature information for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:1yQoGdGgb4wC:
-    citations: 1
+    citations: 2
     title: 'CAMD: Context-Aware Masked Distillation for General Self-Supervised Facial Representation Pre-Training'
     year: '2025'
   N0tFi8MAAAAJ:2osOgNQ5qMEC:
-    citations: 1719
+    citations: 1723
     title: The visual object tracking vot2015 challenge results
     year: '2015'
   N0tFi8MAAAAJ:35N4QoGY0k4C:
@@ -46,7 +46,7 @@ papers:
     title: 'Proselflc: Progressive self label correction for target revising in label noise'
     year: '2020'
   N0tFi8MAAAAJ:4OULZ7Gr8RgC:
-    citations: 614
+    citations: 640
     title: 'Fedala: Adaptive local aggregation for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:4fKUyHm3Qg0C:
@@ -70,7 +70,7 @@ papers:
     title: Positional Mask Attention for Video Sequence Modeling
     year: '2021'
   N0tFi8MAAAAJ:738O_yMBCRsC:
-    citations: 59
+    citations: 64
     title: An upload-efficient scheme for transferring knowledge from a server-side pre-trained generator to clients in heterogeneous federated learning
     year: '2024'
   N0tFi8MAAAAJ:7PzlFSSx8tAC:
@@ -98,7 +98,7 @@ papers:
     title: Occlusion and motion reasoning for long-term tracking
     year: '2014'
   N0tFi8MAAAAJ:AXPGKjj_ei8C:
-    citations: 12
+    citations: 15
     title: 'Htfllib: A comprehensive heterogeneous federated learning library and benchmark'
     year: '2025'
   N0tFi8MAAAAJ:B3FOqHPlNUQC:
@@ -114,11 +114,11 @@ papers:
     title: 'Chrion: Optimizing Recurrent Neural Network Inference by Collaboratively Utilizing CPUs and GPUs'
     year: '2023'
   N0tFi8MAAAAJ:D03iK_w7-QYC:
-    citations: 1
+    citations: 2
     title: Self-supervised multi-object tracking with cycle-consistency
     year: '2023'
   N0tFi8MAAAAJ:GnPB-g6toBAC:
-    citations: 103
+    citations: 104
     title: Semantic-aware occlusion-robust network for occluded person re-identification
     year: '2020'
   N0tFi8MAAAAJ:HoB7MX3m0LUC:
@@ -134,15 +134,15 @@ papers:
     title: Learning Identifiable Structures Helps Avoid Bias in DNN-based Supervised Causal Learning
     year: '2025'
   N0tFi8MAAAAJ:JV2RwH3_ST0C:
-    citations: 133
+    citations: 139
     title: Graph representation of 3D CAD models for machining feature recognition with deep learning
     year: '2020'
   N0tFi8MAAAAJ:J_g5lzvAfSwC:
-    citations: 106
+    citations: 113
     title: Self-supervised vessel segmentation via adversarial learning
     year: '2021'
   N0tFi8MAAAAJ:K3LRdlH-MEoC:
-    citations: 2
+    citations: 3
     title: Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks
     year: '2026'
   N0tFi8MAAAAJ:KlAtU1dfN6UC:
@@ -150,7 +150,7 @@ papers:
     title: 'IEGAN: Multi-purpose perceptual quality image enhancement using generative adversarial network'
     year: '2019'
   N0tFi8MAAAAJ:KxtntwgDAa4C:
-    citations: 110
+    citations: 113
     title: Eliminating Domain Bias for Federated Learning in Representation Space.
     year: '2023'
   N0tFi8MAAAAJ:L8Ckcad2t8MC:
@@ -166,7 +166,7 @@ papers:
     title: Attribute-enhanced face recognition with neural tensor fusion networks
     year: '2017'
   N0tFi8MAAAAJ:M05iB0D1s5AC:
-    citations: 162
+    citations: 169
     title: 'Hierarchical cadnet: Learning from b-reps for machining feature recognition'
     year: '2022'
   N0tFi8MAAAAJ:M3NEmzRMIkIC:
@@ -194,11 +194,15 @@ papers:
     title: Online Residual-Based Key Frame Sampling with Self-Coach Mechanism and Adaptive Multi-Level Feature Fusion
     year: '2023'
   N0tFi8MAAAAJ:PELIpwtuRlgC:
-    citations: 0
+    citations: 1
     title: 'AMPERE: A Generic Energy Estimation Approach for On-Device Training'
     year: '2025'
+  N0tFi8MAAAAJ:PR6Y55bgFSsC:
+    citations: 0
+    title: 'GFedCL: Graph-Based Federated Continual Learning with Spatial and Temporal Awareness'
+    year: Unknown Year
   N0tFi8MAAAAJ:QIV2ME_5wuYC:
-    citations: 365
+    citations: 366
     title: Ranked list loss for deep metric learning
     year: '2019'
   N0tFi8MAAAAJ:R3hNpaxXUhUC:
@@ -218,7 +222,7 @@ papers:
     title: Temporal Meta-Adaptor for Video Object Detection
     year: '2021'
   N0tFi8MAAAAJ:SdhP9T11ey4C:
-    citations: 6
+    citations: 8
     title: Hierarchical token-aware Cross-modality reconstruction for visible-infrared person re-identification
     year: '2025'
   N0tFi8MAAAAJ:TFP_iSt0sucC:
@@ -246,7 +250,7 @@ papers:
     title: 'FWeb3: A Practical Incentive-Aware Federated Learning Framework'
     year: '2026'
   N0tFi8MAAAAJ:VOx2b1Wkg3QC:
-    citations: 2
+    citations: 3
     title: 'FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning'
     year: '2024'
   N0tFi8MAAAAJ:W7OEmFMy1HYC:
@@ -254,7 +258,7 @@ papers:
     title: Generic object-based image recognition apparatus with exclusive classifier, and method for the same
     year: '2014'
   N0tFi8MAAAAJ:WA5NYHcadZ8C:
-    citations: 30
+    citations: 33
     title: 'Pfllib: A beginner-friendly and comprehensive personalized federated learning library and benchmark'
     year: '2025'
   N0tFi8MAAAAJ:WF5omc3nYNoC:
@@ -270,7 +274,7 @@ papers:
     title: 'pfednavi: Structure-aware personalized federated vision-language navigation for embodied ai'
     year: '2026'
   N0tFi8MAAAAJ:XiSMed-E-HIC:
-    citations: 195
+    citations: 207
     title: 'Fedtgp: Trainable global prototypes with adaptive-margin-enhanced contrastive learning for data and model heterogeneity in federated learning'
     year: '2024'
   N0tFi8MAAAAJ:Y0pCki6q_DkC:
@@ -278,7 +282,7 @@ papers:
     title: Image processing device, image processing method, image processing program, and integrated circuit
     year: '2015'
   N0tFi8MAAAAJ:Y5dfb0dijaUC:
-    citations: 3
+    citations: 4
     title: Training diffusion-based generative models with limited data
     year: '2025'
   N0tFi8MAAAAJ:YFjsv_pBGBYC:
@@ -298,7 +302,7 @@ papers:
     title: 'ProSelfLC: Progressive self label correction towards a low-temperature entropy state'
     year: '2022'
   N0tFi8MAAAAJ:ZeXyd9-uunAC:
-    citations: 141
+    citations: 143
     title: Object guided external memory network for video object detection
     year: '2019'
   N0tFi8MAAAAJ:Zph67rFs4hoC:
@@ -310,7 +314,7 @@ papers:
     title: 'ZK-VSA: Zero-Knowledge Verifiable Speaker Anonymization Leveraging Phase Vocoder with Time-Scale Modification'
     year: '2026'
   N0tFi8MAAAAJ:_B80troHkn4C:
-    citations: 6
+    citations: 7
     title: Hierarchical attention-enhanced correlation refinement for robust visual tracking
     year: '2025'
   N0tFi8MAAAAJ:_Qo2XoVZTnwC:
@@ -334,7 +338,7 @@ papers:
     title: Cross-domain learning with normalizing flow
     year: '2023'
   N0tFi8MAAAAJ:blknAaTinKkC:
-    citations: 90
+    citations: 95
     title: 'MAMBA: Multi-level aggregation via memory bank for video object detection'
     year: '2021'
   N0tFi8MAAAAJ:bnK-pcrLprsC:
@@ -346,7 +350,7 @@ papers:
     title: Hierarchical matching with side information for image classification
     year: '2012'
   N0tFi8MAAAAJ:dTyEYWd-f8wC:
-    citations: 1
+    citations: 2
     title: Stealthy Backdoor Attack in Federated Learning via Adaptive Layer-wise Gradient Alignment
     year: '2025'
   N0tFi8MAAAAJ:dfsIfKJdRG4C:
@@ -358,7 +362,7 @@ papers:
     title: Video salient object detection via spatiotemporal attention neural networks
     year: '2020'
   N0tFi8MAAAAJ:dshw04ExmUIC:
-    citations: 51
+    citations: 56
     title: 'PFLlib: Personalized federated learning algorithm library'
     year: '2023'
   N0tFi8MAAAAJ:e5wmG9Sq2KIC:
@@ -366,7 +370,7 @@ papers:
     title: Derivative manipulation for general example weighting
     year: '2019'
   N0tFi8MAAAAJ:eMMeJKvmdy0C:
-    citations: 4
+    citations: 5
     title: 'PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs'
     year: '2025'
   N0tFi8MAAAAJ:eq2jaN3J8jMC:
@@ -374,7 +378,7 @@ papers:
     title: "Improving MAE\u2019s Fitting Ability While Preserving Its Noise-Robustness"
     year: '2019'
   N0tFi8MAAAAJ:fPk4N6BV_jEC:
-    citations: 29
+    citations: 31
     title: Efficient one-stage video object detection by exploiting temporal consistency
     year: '2022'
   N0tFi8MAAAAJ:g5m5HwL7SMYC:
@@ -386,23 +390,27 @@ papers:
     title: Instance cross entropy for deep metric learning
     year: '2019'
   N0tFi8MAAAAJ:hFOr9nPyWt4C:
-    citations: 30
+    citations: 29
     title: Object-adaptive LSTM network for real-time visual tracking with adversarial data augmentation
     year: '2020'
   N0tFi8MAAAAJ:hMod-77fHWUC:
     citations: 5
     title: Fine-Grained Pose Temporal Memory Module for Video Pose Estimation and Tracking
     year: '2021'
+  N0tFi8MAAAAJ:hkOj_22Ku90C:
+    citations: 0
+    title: 'FedCod: An Efficient Coded Communication Protocol for Cross-Silo Federated Learning'
+    year: Unknown Year
   N0tFi8MAAAAJ:iH-uZ7U-co4C:
-    citations: 36
+    citations: 37
     title: Reducing distributional uncertainty by mutual information maximisation and transferable feature learning
     year: '2020'
   N0tFi8MAAAAJ:isC4tDSrTZIC:
-    citations: 4
+    citations: 5
     title: Improving detection and recognition of degraded faces by discriminative feature restoration using gan
     year: '2020'
   N0tFi8MAAAAJ:j3f4tGmQtD8C:
-    citations: 98
+    citations: 99
     title: 'ProSelfLC: Progressive self label correction for training robust deep neural networks'
     year: '2021'
   N0tFi8MAAAAJ:kNdYIx-mwKoC:
@@ -422,19 +430,19 @@ papers:
     title: 'MVRMLM 2024: Multimodal Video Retrieval and Multimodal Language Modelling'
     year: '2024'
   N0tFi8MAAAAJ:lSLTfruPkqcC:
-    citations: 77
+    citations: 79
     title: 'Siren: Byzantine-robust federated learning via proactive alarming'
     year: '2021'
   N0tFi8MAAAAJ:ldfaerwXgEUC:
-    citations: 49
+    citations: 51
     title: 'Resource-efficient convolutional networks: A survey on model-, arithmetic-, and implementation-level techniques'
     year: '2023'
   N0tFi8MAAAAJ:mVmsd5A6BfQC:
-    citations: 117
+    citations: 118
     title: 'IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient magnitude''s variance matters'
     year: '2019'
   N0tFi8MAAAAJ:nb7KW1ujOQ8C:
-    citations: 18
+    citations: 20
     title: Spatio-temporal prompting network for robust video feature extraction
     year: '2023'
   N0tFi8MAAAAJ:ns9cj8rnVeAC:
@@ -446,7 +454,7 @@ papers:
     title: Improving the fairness of the min-max game in GANs training
     year: '2024'
   N0tFi8MAAAAJ:pqnbT2bcN3wC:
-    citations: 18
+    citations: 19
     title: Improving Bayesian Neural Networks by Adversarial Sampling
     year: '2022'
   N0tFi8MAAAAJ:qUcmZB5y_30C:
@@ -454,7 +462,7 @@ papers:
     title: Id-aware quality for set-based person re-identification
     year: '2019'
   N0tFi8MAAAAJ:qjMakFHDy7sC:
-    citations: 14
+    citations: 15
     title: 'Videopuzzle: Descriptive one-shot video composition'
     year: '2012'
   N0tFi8MAAAAJ:qxL8FJ1GzNcC:
@@ -486,7 +494,7 @@ papers:
     title: Adaptive Guidance for Local Training in Heterogeneous Federated Learning
     year: '2024'
   N0tFi8MAAAAJ:u9iWguZQMMsC:
-    citations: 12
+    citations: 13
     title: 'Cheaper and faster: Distributed deep reinforcement learning with serverless computing'
     year: '2024'
   N0tFi8MAAAAJ:uWQEDVKXjbEC:
@@ -494,11 +502,11 @@ papers:
     title: 'SkyMask: Attack-agnostic robust federated learning with fine-grained learnable masks'
     year: '2024'
   N0tFi8MAAAAJ:u_35RYKgDlwC:
-    citations: 6
+    citations: 7
     title: 'Tdvit: Temporal dilated video transformer for dense video tasks'
     year: '2022'
   N0tFi8MAAAAJ:vRqMK49ujn8C:
-    citations: 62
+    citations: 66
     title: Backdoor federated learning by poisoning backdoor-critical layers
     year: '2024'
   N0tFi8MAAAAJ:vV6vV6tmYwMC:
@@ -506,11 +514,11 @@ papers:
     title: Discrepancy-guided domain-adaptive data augmentation
     year: '2021'
   N0tFi8MAAAAJ:xtRiw3GOFMkC:
-    citations: 154
+    citations: 158
     title: 'Fedcp: Separating feature information for personalized federated learning via conditional policy'
     year: '2023'
   N0tFi8MAAAAJ:yD5IFk8b50cC:
-    citations: 235
+    citations: 247
     title: 'Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples'
     year: '2023'
   N0tFi8MAAAAJ:ye4kPcJQO24C:
