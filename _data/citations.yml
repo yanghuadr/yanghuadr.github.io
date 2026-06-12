@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
     citations: 251
@@ -26,7 +26,7 @@ papers:
     title: 'CAMD: Context-Aware Masked Distillation for General Self-Supervised Facial Representation Pre-Training'
     year: '2025'
   N0tFi8MAAAAJ:2osOgNQ5qMEC:
-    citations: 1723
+    citations: 1724
     title: The visual object tracking vot2015 challenge results
     year: '2015'
   N0tFi8MAAAAJ:35N4QoGY0k4C:
@@ -134,7 +134,7 @@ papers:
     title: Learning Identifiable Structures Helps Avoid Bias in DNN-based Supervised Causal Learning
     year: '2025'
   N0tFi8MAAAAJ:JV2RwH3_ST0C:
-    citations: 139
+    citations: 140
     title: Graph representation of 3D CAD models for machining feature recognition with deep learning
     year: '2020'
   N0tFi8MAAAAJ:J_g5lzvAfSwC:
@@ -166,11 +166,11 @@ papers:
     title: Attribute-enhanced face recognition with neural tensor fusion networks
     year: '2017'
   N0tFi8MAAAAJ:M05iB0D1s5AC:
-    citations: 169
+    citations: 170
     title: 'Hierarchical cadnet: Learning from b-reps for machining feature recognition'
     year: '2022'
   N0tFi8MAAAAJ:M3NEmzRMIkIC:
-    citations: 14
+    citations: 15
     title: Point Cloud Dataset Creation for Machine Learning on CAD Models
     year: '2021'
   N0tFi8MAAAAJ:MXK_kJrjxJIC:
@@ -274,7 +274,7 @@ papers:
     title: 'pfednavi: Structure-aware personalized federated vision-language navigation for embodied ai'
     year: '2026'
   N0tFi8MAAAAJ:XiSMed-E-HIC:
-    citations: 207
+    citations: 210
     title: 'Fedtgp: Trainable global prototypes with adaptive-margin-enhanced contrastive learning for data and model heterogeneity in federated learning'
     year: '2024'
   N0tFi8MAAAAJ:Y0pCki6q_DkC:
@@ -338,7 +338,7 @@ papers:
     title: Cross-domain learning with normalizing flow
     year: '2023'
   N0tFi8MAAAAJ:blknAaTinKkC:
-    citations: 95
+    citations: 96
     title: 'MAMBA: Multi-level aggregation via memory bank for video object detection'
     year: '2021'
   N0tFi8MAAAAJ:bnK-pcrLprsC:
@@ -410,7 +410,7 @@ papers:
     title: Improving detection and recognition of degraded faces by discriminative feature restoration using gan
     year: '2020'
   N0tFi8MAAAAJ:j3f4tGmQtD8C:
-    citations: 99
+    citations: 100
     title: 'ProSelfLC: Progressive self label correction for training robust deep neural networks'
     year: '2021'
   N0tFi8MAAAAJ:kNdYIx-mwKoC:
@@ -506,7 +506,7 @@ papers:
     title: 'Tdvit: Temporal dilated video transformer for dense video tasks'
     year: '2022'
   N0tFi8MAAAAJ:vRqMK49ujn8C:
-    citations: 66
+    citations: 67
     title: Backdoor federated learning by poisoning backdoor-critical layers
     year: '2024'
   N0tFi8MAAAAJ:vV6vV6tmYwMC:
