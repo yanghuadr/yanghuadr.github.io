@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   N0tFi8MAAAAJ:-f6ydRqryjwC:
-    citations: 254
+    citations: 255
     title: Contextualizing object detection and classification
     year: '2011'
   N0tFi8MAAAAJ:08ZZubdj9fEC:
@@ -46,7 +46,7 @@ papers:
     title: 'Proselflc: Progressive self label correction for target revising in label noise'
     year: '2020'
   N0tFi8MAAAAJ:4OULZ7Gr8RgC:
-    citations: 723
+    citations: 732
     title: 'Fedala: Adaptive local aggregation for personalized federated learning'
     year: '2023'
   N0tFi8MAAAAJ:4fKUyHm3Qg0C:
@@ -74,7 +74,7 @@ papers:
     title: An upload-efficient scheme for transferring knowledge from a server-side pre-trained generator to clients in heterogeneous federated learning
     year: '2024'
   N0tFi8MAAAAJ:7PzlFSSx8tAC:
-    citations: 0
+    citations: 1
     title: 'SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward'
     year: '2019'
   N0tFi8MAAAAJ:8AbLer7MMksC:
@@ -142,7 +142,7 @@ papers:
     title: Graph representation of 3D CAD models for machining feature recognition with deep learning
     year: '2020'
   N0tFi8MAAAAJ:J_g5lzvAfSwC:
-    citations: 126
+    citations: 128
     title: Self-supervised vessel segmentation via adversarial learning
     year: '2021'
   N0tFi8MAAAAJ:K3LRdlH-MEoC:
@@ -154,7 +154,7 @@ papers:
     title: 'IEGAN: Multi-purpose perceptual quality image enhancement using generative adversarial network'
     year: '2019'
   N0tFi8MAAAAJ:KxtntwgDAa4C:
-    citations: 127
+    citations: 128
     title: Eliminating Domain Bias for Federated Learning in Representation Space.
     year: '2023'
   N0tFi8MAAAAJ:L8Ckcad2t8MC:
@@ -226,7 +226,7 @@ papers:
     title: Temporal Meta-Adaptor for Video Object Detection
     year: '2021'
   N0tFi8MAAAAJ:SdhP9T11ey4C:
-    citations: 20
+    citations: 21
     title: Hierarchical token-aware cross-modality reconstruction for visible-infrared person re-identification
     year: '2025'
   N0tFi8MAAAAJ:TFP_iSt0sucC:
@@ -254,7 +254,7 @@ papers:
     title: Improving the leaking of augmentations in data-efficient gans via adaptive negative data augmentation
     year: '2024'
   N0tFi8MAAAAJ:VL0QpB8kHFEC:
-    citations: 1
+    citations: 2
     title: 'FWeb3: A Practical Incentive-Aware Federated Learning Framework'
     year: '2026'
   N0tFi8MAAAAJ:VOx2b1Wkg3QC:
@@ -282,7 +282,7 @@ papers:
     title: 'pfednavi: Structure-aware personalized federated vision-language navigation for embodied ai'
     year: '2026'
   N0tFi8MAAAAJ:XiSMed-E-HIC:
-    citations: 248
+    citations: 250
     title: 'Fedtgp: Trainable global prototypes with adaptive-margin-enhanced contrastive learning for data and model heterogeneity in federated learning'
     year: '2024'
   N0tFi8MAAAAJ:Y0pCki6q_DkC:
@@ -290,7 +290,7 @@ papers:
     title: Image processing device, image processing method, image processing program, and integrated circuit
     year: '2015'
   N0tFi8MAAAAJ:Y5dfb0dijaUC:
-    citations: 9
+    citations: 10
     title: Training diffusion-based generative models with limited data
     year: '2025'
   N0tFi8MAAAAJ:YFjsv_pBGBYC:
@@ -362,7 +362,7 @@ papers:
     title: 'FedNASP: Federated Vision-Language Navigation with Adaptive Step-wise Personalization'
     year: Unknown Year
   N0tFi8MAAAAJ:dTyEYWd-f8wC:
-    citations: 4
+    citations: 5
     title: Stealthy backdoor attack in federated learning via adaptive layer-wise gradient alignment
     year: '2025'
   N0tFi8MAAAAJ:dfsIfKJdRG4C:
@@ -450,7 +450,7 @@ papers:
     title: 'Resource-efficient convolutional networks: A survey on model-, arithmetic-, and implementation-level techniques'
     year: '2023'
   N0tFi8MAAAAJ:mVmsd5A6BfQC:
-    citations: 120
+    citations: 121
     title: 'IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient magnitude''s variance matters'
     year: '2019'
   N0tFi8MAAAAJ:nb7KW1ujOQ8C:
@@ -530,11 +530,11 @@ papers:
     title: Discrepancy-guided domain-adaptive data augmentation
     year: '2021'
   N0tFi8MAAAAJ:xtRiw3GOFMkC:
-    citations: 168
+    citations: 169
     title: 'Fedcp: Separating feature information for personalized federated learning via conditional policy'
     year: '2023'
   N0tFi8MAAAAJ:yD5IFk8b50cC:
-    citations: 277
+    citations: 278
     title: 'Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples'
     year: '2023'
   N0tFi8MAAAAJ:ye4kPcJQO24C:
